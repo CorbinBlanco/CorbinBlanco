@@ -10,9 +10,6 @@ This profile brings together my projects, technical write-ups, and progress as I
 
 Built a Python tool that parses OpenSSH authentication logs and flags potential brute-force activity. The project explores log analysis, regular expressions, and identifying suspicious authentication patterns.
 
-### Network Traffic Analysis | Wireshark
-
-Analyzed packet captures to investigate suspicious network activity and examine protocol behavior. Documented findings and the analysis process in technical write-ups.
 
 ## Technical Skills
 
