@@ -1,83 +1,40 @@
-# Cybersecurity, Networking, and Computer Science Projects
+# Hi, I’m Corbin Blanco
 
-Welcome to my project repository! This repository serves as a central location for my cybersecurity, networking, and computer science projects. It showcases my technical skills, hands-on experience, and continuous learning as I pursue a career in cybersecurity.
-www.linkedin.com/in/corbin-blanco-8232563a4
+I’m a first-year Cybersecurity student at the University of Texas at San Antonio working toward a career as a **Network Engineer**. I’m interested in how networks are designed, maintained, and secured, and I use hands-on projects to strengthen my networking and programming skills.
 
-## About Me
+This profile brings together my projects, technical write-ups, and progress as I learn.
 
-Hello, i'm Corbin, a Cybersecurity student with a passion for technology, problem-solving, and learning how systems work. Through these projects, I explore topics including:
+## Projects
 
-- Cybersecurity
-- Network Administration
-- System Security
-- Programming and Automation
-- Ethical Hacking
-- Operating Systems
-- Cloud Technologies
-- IT Infrastructure
+### SSH Security Log Analyzer | Python
 
-My goal is to build practical experience and develop skills that can be applied in both academic and professional environments.
+Built a Python tool that parses OpenSSH authentication logs and flags potential brute-force activity. The project explores log analysis, regular expressions, and identifying suspicious authentication patterns.
 
-## Certifications
-Google Cybersecurity Professional: https://www.coursera.org/account/accomplishments/specialization/TVSOVLFLM7BA
+### Network Traffic Analysis | Wireshark
 
-## Repository Structure
+Analyzed packet captures to investigate suspicious network activity and examine protocol behavior. Documented findings and the analysis process in technical write-ups.
 
-Projects are organized into categories:
+## Technical Skills
 
-### Cybersecurity
-Projects related to:
-- Vulnerability Assessment
-- Security Analysis
-- Risk Management
-- Security Tools
-- Ethical Hacking Labs
-- Digital Forensics
+* **Networking:** TCP/IP, DNS, DHCP, HTTP/HTTPS, IP addressing
+* **Tools:** Wireshark, Nmap, Gobuster
+* **Programming:** Python, Java, regular expressions
+* **Systems:** Windows, Linux, command-line tools
 
-### Networking
-Projects related to:
-- Network Design
-- Routing and Switching
-- Network Troubleshooting
-- Packet Analysis
-- Cisco Technologies
-- Network Security
+## Certifications and Learning
 
-### Computer Science
-Projects related to:
-- Python Programming
-- Data Structures and Algorithms
-- Software Development
-- Automation Scripts
-- Object-Oriented Programming
-- Problem Solving
+* [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/TVSOVLFLM7BA)
+* Currently preparing for the **Cisco Certified Network Associate (CCNA)** exam
 
-## Technologies and Tools
+## Current Focus
 
-Some of the technologies and tools used throughout these projects include:
+* Strengthening my understanding of routing, switching, and network troubleshooting
+* Exploring how Python can support network automation
+* Documenting projects so others can understand and reproduce my work
+* Seeking **Summer 2027 internships in networking, IT support, or cybersecurity**
 
-- Python
-- Git & GitHub
-- Linux
-- Windows
-- Cisco Packet Tracer
-- Wireshark
-- Nmap
-- VMware
-- PowerShell
-- Java
+## Connect
 
-## Current Goals
+[LinkedIn](https://www.linkedin.com/in/corbin-blanco-8232563a4)
 
-- Build a strong cybersecurity portfolio
-- Gain practical networking experience
-- Improve programming and automation skills
-- Earn industry certifications
-- Develop real-world security projects
-
-## Contact
-
-Feel free to connect with me:
-
-- LinkedIn: www.linkedin.com/in/corbin-blanco-8232563a4
-
+I welcome connections with students and professionals interested in networking, cybersecurity, and technology.
