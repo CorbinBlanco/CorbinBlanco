@@ -4,7 +4,7 @@ I’m a first-year Cybersecurity student at the University of Texas at San Anton
 
 This profile brings together my projects, technical write-ups, and progress as I learn.
 
-## Projects
+## Current Projects
 
 ### SSH Security Log Analyzer | Python
 
