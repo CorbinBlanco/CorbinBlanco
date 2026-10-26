@@ -1,6 +1,6 @@
 # Hi, I’m Corbin Blanco
 
-I’m a first-year Cybersecurity student at the University of Texas at San Antonio working toward a career as a **Network Engineer**. I’m interested in how networks are designed, maintained, and secured, and I use hands-on projects to strengthen my networking and programming skills.
+I’m a first-year Cybersecurity student at the University of Texas at San Antonio working toward a career in Cybersecurity. I’m interested in how networks are designed, maintained, and secured, and I use hands-on projects to strengthen my networking and programming skills.
 
 This profile brings together my projects, technical write-ups, and progress as I learn.
 
