@@ -21,7 +21,7 @@ Built a Python tool that parses OpenSSH authentication logs and flags potential 
 ## Certifications and Learning
 
 * [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/TVSOVLFLM7BA)
-* Currently preparing for the **Cisco Certified Network Associate (CCNA)** exam
+
 
 ## Current Focus
 
