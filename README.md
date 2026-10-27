@@ -10,12 +10,16 @@ This profile brings together my projects, technical write-ups, and progress as I
 
 Built a Python tool that parses OpenSSH authentication logs and flags potential brute-force activity. The project explores log analysis, regular expressions, and identifying suspicious authentication patterns.
 
+### Pcap file analyzation | Wireshark
+
+In order to strengthen my skills in understanding how networks work, I analyze pcap files using wireshark and document my findings and what I learned.
+
 
 ## Technical Skills
 
-* **Networking:** TCP/IP, DNS, DHCP, HTTP/HTTPS, IP addressing
+* **Networking:** TCP/IP, DNS, DHCP, HTTP/HTTPS, OSI Model, etc
 * **Tools:** Wireshark, Nmap, Gobuster
-* **Programming:** Python, Java, regular expressions
+* **Programming:** Python, Java
 * **Systems:** Windows, Linux, command-line tools
 
 ## Certifications and Learning
@@ -28,7 +32,6 @@ Built a Python tool that parses OpenSSH authentication logs and flags potential 
 * Strengthening my understanding of routing, switching, and network troubleshooting
 * Exploring how Python can support network automation
 * Documenting projects so others can understand and reproduce my work
-* Seeking **Summer 2027 internships in networking, IT support, or cybersecurity**
 
 ## Connect
 
